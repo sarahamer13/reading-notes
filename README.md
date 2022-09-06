@@ -1,2 +1,2 @@
 # reading-notes
-My reading note for Code Fellows class 102 self paced
+My reading notes for Code Fellows class 102 self paced
