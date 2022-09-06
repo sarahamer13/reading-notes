@@ -1,2 +1,3 @@
-# reading-notes
-My reading notes for Code Fellows class 102 self paced
+My Reading Notes
+
+This is where I'm going to put my reading assignments
