@@ -13,4 +13,6 @@
 
 - I'm Sarah Mahdi, I'm originally from the Middle east and I live in Concord, California. I have graduated High School in the Middle East and I joined the Military when I was 19 years old. I served for 4 years as an Arabic Linguist then I earned a bachelor's degree in Health Administration. 
 - I adore travelling and learning about other cultures/langauges.
-- I'm currenty a stay at home mom and I have always loved learning about computers. I'm ready for a new career. [My github portfolio lives here](https://github.com/sarahamer13)
+- I'm currenty a stay at home mom and I have always loved learning about computers. I'm ready for a new career.
+ 
+**GitHub Portfolio Page:** [gifthub.com/sarahamer13](https://github.com/sarahamer13)
