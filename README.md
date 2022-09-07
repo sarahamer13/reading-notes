@@ -9,4 +9,4 @@
 2. Remember failure is only the beginning of success
 3. Stay optimistic 
 
-[My github portfolio lives here:](https://github.com/sarahamer13)
+[My github portfolio lives here:] (https://github.com/sarahamer13)
