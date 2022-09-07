@@ -2,7 +2,7 @@
 
 *This is where I'm going to put my reading assignments.*
 
-**Growth Mindset is I never give up and stay focused on the final outcome.**
+**Growth Mindset is being open to embrace challanges and having strong desire to learn new ideas.**
 
 **Reminders to stay in a growth mindset:**
 1. Ask for help if you need to, you don't need to figure out everything on your own
