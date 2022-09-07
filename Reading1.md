@@ -8,4 +8,4 @@ Markdown is the alternative lanaguge to HTML. It uses symploys to add pictures, 
 
 - I have uploaded the picture to my github then I posted the link of the picture above.
 - You can also add a link to an image. You start adding (!) then wrap the text you want to want to write in [ ]. Finally add ( ) to the URL. For exmaple :
--  ![Murren, Switzerland](https://www.magicswitzerland.com/destinations/murren/)
+-  ![Murren, Switzerland](https://www.google.com/search?q=murren+switzerland&rlz=1C1SQJL_enUS833US833&sxsrf=ALiCzsazslnsvhUfIw4BW231Pr2BtKeuWA:1662586742699&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi-sNOh0oP6AhXHlGoFHRLNDpgQ_AUoAXoECAEQAw&biw=1280&bih=512&dpr=1.5#imgrc=kararwe5OJV1KM)
