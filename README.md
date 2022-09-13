@@ -16,3 +16,12 @@
 - I'm currenty a stay at home mom and I have always loved learning about computers. I'm ready for a new career.
  
 **GitHub Portfolio Page:** [gifthub.com/sarahamer13](https://github.com/sarahamer13)
+
+## Table of Contents  
+[Class 1 Reading Notes](./Class1.md)
+
+[Class 2 Reading Notes](./Class2.md)
+
+[Class 3 Reading Notes](./Class3.md)
+
+[Class 4 Reading Notes](./Class4.md)
