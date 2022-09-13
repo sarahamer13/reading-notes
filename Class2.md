@@ -1,6 +1,7 @@
 # The Coder's Computer #
 
 ## **Terminal Commands** ##
+
 -***pwd*** print working directory. It tells you what directory you are working in
 
 -***ls*** It stands for list. It can list the contents of the directory

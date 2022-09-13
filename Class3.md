@@ -1,4 +1,4 @@
-# Git Introduction # 
+# Git Introduction #
 
 ## What is Git? ##
 
@@ -7,11 +7,11 @@
 - *Tracking Changes*: Every single change applied to any file or directory is tracked by Git
 - *States*: Files in Git can reside in three main states: committed, modified and staged.
 
-  * Committed:  It means data is securely stored in a local database
+  - Committed:  It means data is securely stored in a local database
 
-  * Modified:  It means the file has been changed but not committed to the database
+  - Modified:  It means the file has been changed but not committed to the database
 
-  * Staged: Flagged a file’s changed version to be committed in the next snapshot
+  - Staged: Flagged a file’s changed version to be committed in the next snapshot
 
 # Aspects of Version Control #
 
@@ -28,10 +28,3 @@
 2. ***Centralized Version Control System*** It allow for collaboration on files within a team
 
 3. ***Distributed Version Control systems or DVCS*** It allow clients to create multiple mirrored repositories. DVCS is important for when CVS goes down
-
-
-
-
-
-
- 
