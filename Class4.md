@@ -11,4 +11,4 @@
 
 - Wireframe is a practice used to define and plan the information hierarchy of a website, app, or product
 - Wireframing is also a great way of getting to know how a user interacts with your interface, through the positioning of buttons and menus on the diagrams
-- wireframing lets you plan the layout and interaction of your interface without the distractions of colors, typeface choices or text
+- Wireframing lets you plan the layout and interaction of your interface without the distractions of colors, typeface choices or text
