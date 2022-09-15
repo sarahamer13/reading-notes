@@ -25,3 +25,5 @@
 [Class 3 Reading Notes](./Class3.md)
 
 [Class 4 Reading Notes](./Class4.md)
+
+[Class 5 Reading Notes](./Class5.md)
