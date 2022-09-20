@@ -4,7 +4,7 @@
 
 - JS is known as the scripting language for Web pages such as Chrome, Internet Explorer, or Safari
 
-- JS is used in non-broswer environment such as Adobe Acrobat and Node JS
+- JS is used in non-browser environment such as Adobe Acrobat and Node JS
 
 ## **JavaScript Variables** ##
 
@@ -12,7 +12,7 @@
 
 - There are 4 ways to declare a JavaScript Variable:
 
-1. Using var
+ 1. Using var
 
 Example :
 
