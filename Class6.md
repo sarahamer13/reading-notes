@@ -12,18 +12,18 @@
 
 - There are 4 ways to declare a JavaScript Variable:
 
-1. Using var
-
-Example :
-
-    var a =1
-
-    var b = 3
-
-    var c = a+b
+1. Using Var
 
 2. Using let
 
 3. Using const
 
 4. Using nothing
+
+Example of using var:
+
+    var a =1
+
+    var b = 3
+
+    var c = a+b
