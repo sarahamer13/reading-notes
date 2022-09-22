@@ -12,6 +12,6 @@
 
 1. Do... while statement : The do...while statement repeats until a specified condition evaluates to false.
 
-2. While statment : A while statement executes its statements as long as a specified condition evaluates to true
+2. While statement : A while statement executes its statements as long as a specified condition evaluates to true
 
-3. For statment : A for loop repeats until a specified condition evaluates to false
+3. For statement : A for loop repeats until a specified condition evaluates to false
