@@ -31,3 +31,5 @@
 [Class 6 Reading Notes](./Class6.md)
 
 [Class 7 Reading Notes](./Class7.md)
+
+[Class 8 Reading Notes](./Class8.md)
