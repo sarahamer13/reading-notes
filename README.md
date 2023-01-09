@@ -14,7 +14,7 @@
 
 - I'm Sarah Mahdi, I joined the Military when I was 19 years old. I served for 4 years as an Arabic Linguist then I earned a bachelor's degree in Health Administration
 - I adore travelling and learning about other cultures/langauges.
-- I have always loved learning about computers and always wanted to start this journey of learning Software Development. I'm eager to learn.gi
+- I have always loved learning about computers and always wanted to start this journey of learning Software Development. I'm eager to learn
 
 **GitHub Portfolio Page:** [gifthub.com/sarahamer13](https://github.com/sarahamer13)
 
