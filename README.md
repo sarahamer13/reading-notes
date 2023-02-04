@@ -39,6 +39,12 @@
 
 ## Code 201 Reading Notes - Foundations of Software Development ##
 
+[Class 1 Reading Notes](./Reading1-201.md)
+## Table of Contents
+
+[Class 1 Reading Notes](./Class%2001.md)
+
+[Class 2 Reading Notes](./Class%2002.md)
 
 
 ## Code 301 Reading Notes - Intermediate Software Development ##
