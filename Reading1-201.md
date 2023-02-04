@@ -4,11 +4,11 @@
 -  The attribute gives information about what is an element
 
 
-*Describe the Anatomy of an HTMl element*
+*Describe the Anatomy of an HTML element*
 
 - Opening tag: This consists of the name of the element and it's wrapped in opening and closing angle brackets. This opening tag marks where the element begin.
 
-- Content: This is the content of the element. 
+- Content: This is the content of the element.
 
 - Closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name.
 
@@ -20,7 +20,7 @@
 
 *What is the most important question to answer when designing a Website?*
  
- - Identify the goals behind desiging a website for exmaple, to display art, sell art materials, puplish photos you capture, etc.
+ - Identify the goals behind designing a website for example, to display art, sell art materials, publish photos you capture, etc.
 
 *How can you find images to add to a Website?*
 
@@ -50,7 +50,6 @@ Some elements are:
 ## Things I want to know more about
 
 I would like to know more styling tricks
-
 
 
 
