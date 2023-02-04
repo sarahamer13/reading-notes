@@ -6,10 +6,11 @@
 
 *Describe the Anatomy of an HTMl element*
 
-- Opening tag: This consists of the name of the element (in this example, p for paragraph), wrapped in opening and closing angle brackets. This opening tag marks where the element begins or starts to take effect. In this example, it precedes the start of the paragraph text.
+- Opening tag: This consists of the name of the element and it's wrapped in opening and closing angle brackets. This opening tag marks where the element begin.
 
-- Content: This is the content of the element. In this example, it is the paragraph text.
-- Closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This marks where the element ends.
+- Content: This is the content of the element. 
+
+- Closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name.
 
 
 
@@ -23,7 +24,7 @@
 
 *How can you find images to add to a Website?*
 
-- You can use an online resource as as google or yahoo and use the license filter to avoid copyrights voilation.
+- You can use an online resource as as google or yahoo and use the license filter to avoid copyrights violations
 
 - Other option is you can use your own photos that are suitable for the content of a website.
 
@@ -35,7 +36,21 @@
 *What is a Variable and why are they important in JavaScript?*
 
 - Variables are containers that store values.
-- They are important because they are a necessary to do anything interesting in programming. If values couldn't change, then you couldn't do anything dynamic, like personalize a greeting message or change an image displayed in an image gallery.
+- They are important because they are a necessary to do anything in programming. If variables couldn't change, then everything will look the same thing
+
+*What Elements does a “typical” website include?*
+
+Some elements are:
+
+- Title
+- Header
+- Main
+- Body
+
+## Things I want to know more about
+
+I would like to know more styling tricks
+
 
 
 
