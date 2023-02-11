@@ -43,6 +43,7 @@
 
 [Class 2 Reading Notes](/Reading2-201.md)
 
+[Class 3 Reading Notes](/Reading3-201.md)
 
 
 ## Code 301 Reading Notes - Intermediate Software Development ##
