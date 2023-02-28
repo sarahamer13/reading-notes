@@ -2,7 +2,7 @@
 
 ### *Flexbox is designed for one-dimensional content. Explain what this means* ###
 
-- Flexbox is a layout mechanism for one-dimensional layouts.It takes bunch of items that have different sizes and return the best layout for these items.
+- Flexbox is a layout mechanism for one-dimensional layouts. It takes a bunch of items that have different sizes and returns the best layout for these items.
 
 
 ### *Explain the difference between the main axis and cross axis* ###
@@ -27,7 +27,7 @@
 
 ### *How does this topic connect with your long term goals?* ###
 
-- I love using pictures in a website and the flexbox can help allign multiple elements that are in the same containers. For example, flexbox can help allign two pictures and a title in a header.
+- I love using pictures on a website and the flexbox can help align multiple elements that are in the same containers. For example, flexbox can help align two pictures and a title in a header.
 
 (Reference: Developer Mozilla)
 ## Things I want to know more about 
