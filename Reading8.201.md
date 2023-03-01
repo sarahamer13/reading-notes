@@ -1,4 +1,4 @@
-## In Tofay's learning, we learn the importance of using CSS and how it can make the page appealing ##
+## In Today's learning, we learn the importance of using CSS and how it can make the page appealing ##
 
 ### *Flexbox is designed for one-dimensional content. Explain what this means* ###
 
