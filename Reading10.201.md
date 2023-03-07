@@ -8,11 +8,11 @@ Logic errors: These are errors where the syntax is actually correct but the code
 
 ### *List a few types of errors that you have encountered in past lab assignments and explain how you were able to correct them* ###
 
-- I have come across syntax errors many times, luckily VScode highlights them and tells you what it was expecting, it is similar to logic errors in the sense that VScode tells you what it was expecting. From there its easier to troubleshoot the error.
+- I have come across syntax errors many times, luckily VScode highlights them and tells you what it was expecting, it is similar to logic errors in the sense that VScode tells you what it was expecting. From there it's easier to troubleshoot the error.
 
 ### *How will this topic continue to influence your long term goals?* ###
 
-- fixing errors is something important to learn because erros are invetiable. Studying why errors occur and how to efficiently fix them can save tons of time.
+- fixing errors is something important to learn because errors are inevitable. Studying why errors occur and how to efficiently fix them can save tons of time.
 
 ### *How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?* ###
 
