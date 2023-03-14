@@ -61,6 +61,8 @@
 
 [Class 11 Reading Notes](/Reading11.201.md)
 
+[Class 12 Reading Notes](/Reading12.201.md)
+
 ## Code 301 Reading Notes - Intermediate Software Development ##
 
 ## Code 401 Reading Notes - Advanced Software Development ##
