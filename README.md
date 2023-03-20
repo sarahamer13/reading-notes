@@ -49,21 +49,25 @@
 
 [Class 5 Reading Notes](/Reading5-201.md)
 
-[Class 6 Reading Notes](/Reading6.201.md)
+[Class 6 Reading Notes](/Reading6-201.md)
 
-[Class 7 Reading Notes](/Reading7.201.md)
+[Class 7 Reading Notes](/Reading7-201.md)
 
-[Class 8 Reading Notes](/Reading8.201.md)
+[Class 8 Reading Notes](/Reading8-201.md)
 
-[Class 9 Reading Notes](/Reading9.201.md)
+[Class 9 Reading Notes](/Reading9-201.md)
 
-[Class 10 Reading Notes](/Reading10.201.md)
+[Class 10 Reading Notes](/Reading10-201.md)
 
-[Class 11 Reading Notes](/Reading11.201.md)
+[Class 11 Reading Notes](/Reading11-201.md)
 
-[Class 12 Reading Notes](/Reading12.201.md)
+[Class 12 Reading Notes](/Reading12-201.md)
 
-[Class 13 Reading Notes](/Reading13.201.md)
+[Class 13 Reading Notes](/Reading13-201.md)
+
+[Class 14a Reading Notes](/Reading14a-201.md)
+
+[Class 14b Reading Notes](/Reading14b-201.md)
 
 ## Code 301 Reading Notes - Intermediate Software Development ##
 
