@@ -71,4 +71,6 @@
 
 ## Code 301 Reading Notes - Intermediate Software Development ##
 
+[Class 1 Reading Notes](/Reading1-301.md)
+
 ## Code 401 Reading Notes - Advanced Software Development ##
