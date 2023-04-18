@@ -1,7 +1,7 @@
 
 ### *Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?* ###
 
-- Based on the diagram, it looks like componentDidMount happens before the render occurs.
+- Based on the diagram, it looks like the render occurs first.
 
 
 ### *What is the very first thing to happen in the lifecycle of React?* ###
