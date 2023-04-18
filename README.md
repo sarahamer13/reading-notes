@@ -73,4 +73,6 @@
 
 [Class 1 Reading Notes](/Reading1-301.md)
 
+[Class 2 Reading Notes](/Reading2-301.md)
+
 ## Code 401 Reading Notes - Advanced Software Development ##
