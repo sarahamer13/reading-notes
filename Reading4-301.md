@@ -4,7 +4,7 @@
 
 ### *Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why* ###
 
-- We should first store the user responses from the form before we update state because if state attempt to update with the user responses before it stores, it's going to break the site.
+- We should first store the user responses from the form before we update the state because if the state attempt to update with the user responses before it stores, it's going to break the site.
 
 ### *How do we target what the user is entering if we have an event handler on an input field?* ###
 
