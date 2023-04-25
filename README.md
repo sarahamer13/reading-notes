@@ -79,4 +79,6 @@
 
 [Class 4 Reading Notes](/Reading4-301.md)
 
+[Class 5 Reading Notes](/Reading5-301.md)
+
 ## Code 401 Reading Notes - Advanced Software Development ##
