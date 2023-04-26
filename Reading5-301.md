@@ -1,10 +1,10 @@
 ### *What is the single responsibility principle and how does it apply to components?* ###
 
-- It is a component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller subcomponents.
+- It is a component that should ideally only do one thing. If it ends up growing, it should be decomposed into smaller subcomponents.
 
 ### *What does it mean to build a ‘static’ version of your application?* ###
 
-- To build a static version of your app that renders your data model, you’ll want to build components that reuse other components and pass data using props. Props are a way of passing data from parent to child. (If you’re familiar with the concept of state, don’t use state at all to build this static version. State is reserved only for interactivity, that is, data that changes over time. Since this is a static version of the app, you don’t need it.)
+- To build a static version of your app that renders your data model, you’ll want to build components that reuse other components and pass data using props. Props are a way of passing data from parent to child. (If you’re familiar with the concept of state, don’t use state at all to build this static version. The state is reserved only for interactivity, that is, data that changes over time. Since this is a static version of the app, you don’t need it.)
 
 ### *Once you have a static application, what do you need to add?* ###
 
