@@ -30,20 +30,20 @@
 
 ### *What is node used for?* ###
 
-- Node is used by developers to wite JavaScript code that runs in a computer process rather than in a browser. Therefore; Node can be used to write server side applications with access to the operating system.
+- Node is used by developers to write JavaScript code that runs in a computer process rather than in a browser. Therefore; Node can be used to write server-side applications with access to the operating system.
 
 ### *What are the 6 reasons for pair programming?* ###
 
 - Listening: hearing and interpreting the vocabulary
 - Speaking: using the correct words to communicate an idea
 - Reading: understanding what written language intends to convey
-- Writing: producing from scratch a meaningful, well structured solution
+- Writing: producing from scratch a meaningful, well-structured solution
 - Efficiency: Two people can work faster on a program rather than one.
-- Engaged collaboration: Having two people collaborate is better than one because each person sometimes can come up with a different solution.
+- Engaged collaboration: Having two people collaborate is better than having one because each person sometimes can come up with a different solution.
 
 ### *In your experience, which of these reasons have you found most beneficial?* ###
 
-- I have found efficiency is the most beneficial one because two people working on a project produce high quality code.
+- I have found efficiency is the most beneficial one because two people working on a project produce high-quality code.
 
 ### *How does pair programming work?* ###
 
