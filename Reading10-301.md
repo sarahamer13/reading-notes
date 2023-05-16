@@ -24,11 +24,11 @@
 
 ### *What is a ‘range error’?* ###
 
-- When you try to manipulate an object with some kind of length and give it an invalid length and this kind of errors will show up.
+- When you try to manipulate an object with some kind of length and give it an invalid length and this kind of error will show up.
 
 ### *What is a ‘type error’?* ###
 
-- This types of errors show up when the types (number, string and so on) you are trying to use or access are incompatible, like accessing a property in an undefined type of variable.
+- These types of errors show up when the types (number, string, and so on) you are trying to use or access are incompatible, like accessing a property in an undefined type of variable.
 
 ### *What is a breakpoint?* ###
 
@@ -36,7 +36,7 @@
 
 ### *What does the word ‘debugger’ do in your code?* ###
 
-- It adds a breakpoint to the code, which allow the developer to review the things that are happening to that particular point
+- It adds a breakpoint to the code, which allows the developer to review the things that are happening at that particular point
 
 (References: https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4 ,
 https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c
