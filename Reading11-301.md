@@ -48,7 +48,7 @@ A relational database is a type of database. Often, data in a relational databas
 
 ### *What is a NoSQL database?* ###
 
-NoSQL databases, also known as "not only SQL" are non tabular, and store data differently than relational tables.NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph
+- NoSQL databases, also known as "not only SQL" are non-tabular, and store data differently than relational tables.NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph
 
 ### *What is inside of a MongoDB database?* ###
 
