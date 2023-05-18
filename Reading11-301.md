@@ -61,3 +61,5 @@ NoSQL databases, also known as "not only SQL" are non tabular, and store data di
 ### *What is the disadvantage of a NoSQL database?* ####
 
 - Data is typically merged/nested in a few collections, and no or very few relations
+
+(References: https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool, https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
