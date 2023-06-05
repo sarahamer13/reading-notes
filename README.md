@@ -97,4 +97,8 @@
 
 [Class 13 Reading Notes](/Reading13-301.md)
 
+[Class 14 Reading Notes](/Reading14-301.md)
+
+[Class 15 Reading Notes](/Reading15-301.md)
+
 ## Code 401 Reading Notes - Advanced Software Development ##
