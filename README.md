@@ -102,3 +102,5 @@
 [Class 15 Reading Notes](/Reading15-301.md)
 
 ## Code 401 Reading Notes - Advanced Software Development in Python ##
+
+[SQL Practice](/Pre-work.md)
