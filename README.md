@@ -104,3 +104,5 @@
 ## Code 401 Reading Notes - Advanced Software Development in Python ##
 
 [SQL Practice](/Pre-work.md)
+
+[Class 1 Reading Notes](/Reading1-401.md)
