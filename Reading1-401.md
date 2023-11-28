@@ -1,6 +1,6 @@
 ### *In the context of the reading “Pain and Suffering,” describe the main challenges faced by beginners when learning Python and suggest at least two strategies for overcoming these obstacles* ###
 
-- Python is a different language from Java. I believe as a beginner person the first thing to notice is the syntax is different from Java. It sounds like an English language, but more complicated than that. My two strategies for overcoming these obstacles is to get used to the new syntax and try to do as much practice as possible.
+- Python is a different language from Java. I believe as a beginner person the first thing to notice is the syntax is different from Java. It sounds like an English language, but more complicated than that. My two strategies for overcoming these obstacles are to get used to the new syntax and try to do as much practice as possible.
 
 
 ### *After reading “Beginners Guide to Big O,” explain the concept of time complexity and space complexity* ###
@@ -12,7 +12,7 @@
 
 ### *Based on the “Names and Values in Python” reading, explain the difference between mutable and immutable data types in Python* ###
 
-- Mutable data are values that can be changes while immutable data are values that can't be changed.
+- Mutable data are values that can be changed while immutable data are values that can't be changed.
 
 [Reference1](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering) 
 
