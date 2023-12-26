@@ -32,7 +32,7 @@
 
 - A Module in Python is basically a single file that has Python code. It can be created by writing a code in separate Python file with a ".py" extension.
 
-- A Package is a collection of Python modules organized in a directory hierarchy. It includes an additional __init__.py file to indicate that the directory should be treated as a packag
+- A Package is a collection of Python modules organized in a directory hierarchy. It includes an additional __init__.py file to indicate that the directory should be treated as a package
 
 - We can import and use modules from a package in a manner similar to modules. When importing a module or a package, we bring its symbols into our script's namespace. We can use the as keyword to provide an alias, which can be useful to avoid naming conflicts.
 
