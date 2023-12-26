@@ -106,3 +106,5 @@
 [SQL Practice](/Pre-work.md)
 
 [Class 1 Reading Notes](/Reading1-401.md)
+
+[Class 2 Reading Notes ](/Reading2-401.md)
