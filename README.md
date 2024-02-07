@@ -112,3 +112,5 @@
 [Class 3 Reading Notes](/Reading3-401.md)
 
 [Class 4 Reading Notes](/Reading4-401.md)
+
+[Class 6 Reading Notes](/Reading6-401.md)
