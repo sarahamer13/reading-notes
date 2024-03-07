@@ -55,7 +55,7 @@ import random
 def roll_dice():
     return random.randint(1, 6)
 
-"""Function to simulate dice rolls and calculate the probability of rolling a specific target number and taking two arguments trails which is the number of dice should be rolled and target the number whose rolling probability we want to calculate """
+"""Function to simulate dice rolls and calculate the probability of rolling a specific target number and taking two arguments trials which is the number of dice should be rolled and target the number whose rolling probability we want to calculate """
 def simulate_dice_rolls(trials, target):
     count = 0
     for _ in range(trials):
