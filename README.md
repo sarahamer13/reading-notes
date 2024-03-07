@@ -117,3 +117,7 @@
 
 [Class 7 Reading Notes](/Reading7.401.md)
 
+[Class 8 Reading Notes](/Reading8-401.md)
+
+[Class 9 Reading Notes](/Reading9.401.md)
+
